@@ -76,6 +76,11 @@ ul li:hover ul.dropdown {
   height: 15%;
 }
 
+select {
+  padding: 5px;
+  font-size: 0.9em;
+}
+
 /* The End of NAV */
 
 /* Main */
